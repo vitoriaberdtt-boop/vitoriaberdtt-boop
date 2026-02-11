@@ -24,6 +24,7 @@
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VS Code" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Vercel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg">
   <img align="center" alt="Vercel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
 
 </div>
