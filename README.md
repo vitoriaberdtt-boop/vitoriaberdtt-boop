@@ -1,6 +1,6 @@
 # 💜Vitória Berdtt
 
-* Front-end developer and university student in the Systems Analysis and Development at IFSul.
+* Web developer and university student in the Systems Analysis and Development at IFSul.
 * I have built several responsive and dynamic projects, including a To-do list, JavaScript Quiz, Calculator, Multiplication Table, Landing Page, and more
 * I have a strong interest in the technology field and am always seeking to learn more and keep my skills up to date
 * Currently seeking an IT internship
